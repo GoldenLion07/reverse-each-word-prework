@@ -6,4 +6,5 @@ reverse.join(" ")
 end
 
 # Method takes in an argument of our string array 
-# define our variable as a part of our array and collect
+# define our variable as a part of our array and creates a new array containing all our sentences reversed 
+# calls our variable and combines them with quotation marks
